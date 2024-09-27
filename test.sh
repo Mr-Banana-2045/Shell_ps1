@@ -1,4 +1,4 @@
-TOKEN="7659597611:AAGCa_pylJU71keQhN3U3ovPaOAWlg2jzGc"
+TOKEN=" token "
 last_update_id=0
 answered_messages=()
 
